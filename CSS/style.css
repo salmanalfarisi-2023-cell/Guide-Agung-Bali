@@ -258,6 +258,22 @@ button {
 
 /* Logo */
 
+.logo-img {
+    height: 70px;
+    width: auto;
+}
+
+.logo-footer {
+    width: 70px !important;
+    height: 70px !important;
+    border-radius: 50% !important;
+    background-size: contain !important; /* Membuat gambar pas di dalam lingkaran tanpa kepotong */
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-color: #ffffff !important; /* Background putih agar rapi */
+    display: inline-block;
+}
+
 .logo {
     display: flex;
 
