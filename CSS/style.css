@@ -385,7 +385,7 @@ button {
             rgba(0, 0, 0, 0.65),
             rgba(0, 0, 0, 0.18)
         ),
-        url("../assets/images/foto-10.jpeg")
+        url("../assets/images/foto 10.jpeg")
         center / cover no-repeat;
 
     color: white;
@@ -591,7 +591,7 @@ button {
 }
 
 .destination-image {
-    position: relative;
+    position: center;
 
     height: 420px;
 
